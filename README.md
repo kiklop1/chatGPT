@@ -1,7 +1,7 @@
-**Automated Email Sender with ChatGPT and Outlook**
+**Automated Email Sender with ChatGPT and Outlook** \n
 Automate your email sending process using the power of ChatGPT and Microsoft Outlook. This script utilizes Microsoft Outlook to automate email sending and leverages the OpenAI ChatGPT API to create personalized and engaging email content.
 
-**Features**
+**Features** \n
 Outlook Integration: Seamlessly connects to Microsoft Outlook for email automation.
 ChatGPT Integration: Generates personalized email content using OpenAI's ChatGPT API.
 Versatile Database Support: Uses a simple Excel database but can be easily adapted to work with SQL, Pandas, or any other database system.
